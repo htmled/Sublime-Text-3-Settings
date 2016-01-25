@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"CSScomb",
+		"DashDoc",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"FileDiffs",
+		"GitGutter",
+		"Gutter Color",
+		"Handlebars",
+		"HTML5",
+		"Jade",
+		"JSHint Gutter",
+		"LESS",
+		"Monokai Extended",
+		"Package Control",
+		"Pretty JSON",
+		"Pretty YAML",
+		"Ruby Slim",
+		"Sass",
+		"Sass-Director",
+		"SassBeautify",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Theme - Soda"
+	]
+}
