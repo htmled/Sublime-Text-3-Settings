@@ -1,6 +1,6 @@
 # [Sublime Text 3 Settings](https://github.com/htmled/Sublime-Text-3-Settings)
 
-My personal settings and installed packages to make [Sublime Text 3](https://www.sublimetext.com) even better.
+My personal settings and installed packages to make [Sublime Text 3](https://www.sublimetext.com) better.
 
 ## Instructions
 
@@ -9,7 +9,7 @@ Install [Package Control](https://packagecontrol.io/installation).
 Clone the repository into the Sublime Text 3 User Package folder.
 
 ``` bash
-git clone git://github.com/htmled/Sublime-Text-3-Settings.git "~/Library/Application Support/Sublime Text 3/Packages/User"
+git clone git://github.com/htmled/sublime-text-3-settings ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
 ```
 
 When an update is available, simply navigate over to `"~/Library/Application Support/Sublime Text 3/Packages/User"` and type `git pull`.
@@ -82,4 +82,4 @@ When an update is available, simply navigate over to `"~/Library/Application Sup
 
 ## Themes
 
-* [Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended) - Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more
+* [cobalt2](https://github.com/wesbos/cobalt2) - A refined colour scheme that is easy on the eyes and takes small UI elements into account. Includes full sublime theme (sidebar, search, tabs, etc...) as well as support for SublimeLinter, git diffing and a growing number of plugins
