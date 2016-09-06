@@ -7,6 +7,7 @@
 	[
 		"Better CoffeeScript",
 		"BracketHighlighter",
+		"Cobalt2 Flat Theme",
 		"CSScomb",
 		"DashDoc",
 		"DocBlockr",
@@ -18,10 +19,13 @@
 		"Handlebars",
 		"HTML5",
 		"Jade",
+		"JSHint",
 		"JSHint Gutter",
 		"LESS",
 		"Monokai Extended",
 		"Package Control",
+		"PHP Codebeautifier",
+		"PHP-Twig",
 		"Pretty JSON",
 		"Pretty YAML",
 		"Ruby Slim",
@@ -31,8 +35,10 @@
 		"SideBarEnhancements",
 		"SqlBeautifier",
 		"SublimeLinter",
+		"SublimeLinter-contrib-sass-lint",
 		"SyncedSideBar",
 		"Theme - Cobalt2",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Twig"
 	]
 }
